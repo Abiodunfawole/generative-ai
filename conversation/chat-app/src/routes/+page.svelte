@@ -102,8 +102,8 @@
         <script
           src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
         <df-messenger
-          project-id="your-project-id"
-          agent-id="4e166055-7ed3-4ffb-abf6-ee0d75abf823"
+          project-id="fine-craft-416009"
+          agent-id="adroit_1709382326603"
           language-code="en"
           storage-option="none"
           class="drop-shadow-lg"
